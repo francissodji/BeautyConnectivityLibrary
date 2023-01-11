@@ -1,0 +1,12 @@
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\bin\Debug\net6.0\ConnectivityLibrary.deps.json
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\bin\Debug\net6.0\ConnectivityLibrary.dll
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\bin\Debug\net6.0\ConnectivityLibrary.pdb
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.csproj.AssemblyReference.cache
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.AssemblyInfoInputs.cache
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.AssemblyInfo.cs
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.csproj.CoreCompileInputs.cache
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.dll
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ConnectivityLibrary.pdb
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\ref\ConnectivityLibrary.dll
+D:\PROJECTS\PROJECTVISUALSTUDIO\Libraries\ConnectivityLibrary\ConnectivityLibrary\obj\Debug\net6.0\refint\ConnectivityLibrary.dll
